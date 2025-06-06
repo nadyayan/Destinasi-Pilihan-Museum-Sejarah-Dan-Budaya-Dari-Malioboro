@@ -1,0 +1,1 @@
+var json_Malioboro_8 = {"type":"FeatureCollection","name":"Malioboro_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"x":110.36572,"y":-7.7936,"field_3":"Malioboro"},"geometry":{"type":"Point","coordinates":[110.365719,-7.793595992]}}]}
